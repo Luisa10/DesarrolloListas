@@ -1,0 +1,46 @@
+#content {
+	margin-left: 30%;
+	margin-top: 5%;
+}
+#content1 {
+	margin-left: 40%;
+	margin-top: 20%;
+}
+.sapUiDlgFooter {
+	background-color: #35769a !important;
+}
+.sapUiTf {
+	width:50% !important;
+	float: left !important;
+}
+.sapUiLbl {
+    width:45% !important;
+    float: left !important;
+    
+}
+.__panel0-cont{
+    margin-left: 45% !important;
+	margin-top: 20% !important;
+}
+.sapUiUx3ShellContent {
+    width: 50% !important;
+    margin-left: 25% !important;
+    
+}
+input [disabled]
+{
+	background-color   : #8c2525 !important;
+}
+.sapUiBtnS.sapUiBtnNorm.sapUiBtnEmph {
+    background-color: #f0ab00 !important;
+    border: 1px solid #007dc0 !important;
+    position: fixed;
+    top: 20% !important;
+    bottom: 0 !important;
+    right: 0 !important;
+    left: 75% !important;
+    width: 7% !important;
+    height: 4% !important;
+   
+}
+    
